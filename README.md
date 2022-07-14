@@ -1,2 +1,2 @@
-# Organized-Sounds-and-Silences
+# Organized Sounds and Silences
 A beatiful proyect about art, perception, and data science
