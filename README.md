@@ -1,2 +1,2 @@
 # Organized Sounds and Silences
-A beatiful proyect about art, perception, and data science
+A beatiful proyect on art, perception, and data science
